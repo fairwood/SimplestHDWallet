@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "bsv": "^1.5.3",
+    "bsv": "^2.0.10",
     "mattercloudjs": "^1.1.2"
   },
   "devDependencies": {},
